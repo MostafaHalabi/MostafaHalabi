@@ -25,4 +25,4 @@
 
 
 
-<p style="display:flex; width:100%; justify-content:center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafahalabi&" alt="mostafahalabi" /></p>
+<div style="display:flex; width:100%; justify-content:center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafahalabi&" alt="mostafahalabi" /></div>
