@@ -5,6 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mostafahalabi.com](https://www.mostafahalabi.com)
 
-- 💬 Ask me about **HTML, css, javascript, React.js**
+- 💬 Ask me about **React.js, Next.js, TypeScript, HTML, CSS..**
 
 - 📫 How to reach me **mostafa.abdelkader.halabi@gmail.com**
