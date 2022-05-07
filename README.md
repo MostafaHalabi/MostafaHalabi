@@ -4,7 +4,7 @@
 	<tbody>
 		<tr>
 			<td>- 🌱 I’m currently learning **Node.js**</td>
-			<td></td>
+			
 			<td rowspan="4">
         <a href="https://app.daily.dev/MostafaHalabi">
   <img src="https://api.daily.dev/devcards/45e08494df11437f8affc7349e3fa65d.png?r=o85" width="400" alt="mostafa halabi's Dev Card"/>
