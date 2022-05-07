@@ -9,8 +9,11 @@
 - 💬 Ask me about **React.js, Next.js, TypeScript, HTML, CSS..**
 
 - 📫 How to reach me **mostafa.abdelkader.halabi@gmail.com**
+  <a href="https://app.daily.dev/MostafaHalabi">
+  <img src="https://api.daily.dev/devcards/45e08494df11437f8affc7349e3fa65d.png?r=o85" width="400" alt="mostafa halabi's Dev Card"/>
+ </a>
 </div>
 <div align="right">
-<a href="https://app.daily.dev/MostafaHalabi"><img src="https://api.daily.dev/devcards/45e08494df11437f8affc7349e3fa65d.png?r=o85" width="400" alt="mostafa halabi's Dev Card"/></a>
+
 </div>
 </div>
