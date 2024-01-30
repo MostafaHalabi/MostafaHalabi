@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafahalabi" alt="mustafahalabi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/mustafahalabi](github.com/mustafahalabi)
+- 👨‍💻 All of my projects are available at [https://www.github.com/mustafahalabi](github.com/mustafahalabi)
 
 - 📫 How to reach me **mustafa.abdelkader.halabi@gmail.com**
 
